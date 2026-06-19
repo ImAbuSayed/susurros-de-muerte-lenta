@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros de muerte lenta
+
+This log tracks the cryptographic history and versioning for the song **Susurros de muerte lenta** (susurros-de-muerte-lenta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:27:36.018317 | `v1` | `bc92fd040cff98370a5f30201fbc5827ee184e6a850591dcf71a641491be9db8` | `38279f6e527a471a29089381c45ccb1e43e3c3a537522f80a6af34c456383aa9` | `2026-06-19_susurros-de-muerte-lenta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

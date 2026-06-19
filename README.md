@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-muerte-lenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Susurros de muerte lenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-muerte-lenta/) |
+| **Get License** | [Get License For Susurros de muerte lenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-muerte-lenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bc92fd040cff98370a5f30201fbc5827ee184e6a850591dcf71a641491be9db8` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
