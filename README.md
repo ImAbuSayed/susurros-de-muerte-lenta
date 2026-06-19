@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-muerte-lenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Susurros de muerte lenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-muerte-lenta/) |
+| **Get License** | [Obtain a Music License for Susurros de muerte lenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-muerte-lenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Susurros de muerte lenta, rompiendo la ley
+> Tú eres mi reina, nena, yo soy tu rey
+> Esta noche mami, perdemos el control
+> Bailando en lo oscuro, fundiendo el calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
